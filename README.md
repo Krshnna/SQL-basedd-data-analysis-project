@@ -1,1 +1,1 @@
-# SQL-basedd-data-analysis-project
+# SQL-based-data-analysis-project
